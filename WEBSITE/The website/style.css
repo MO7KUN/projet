@@ -1,0 +1,426 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__1 {
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+
+}
+#images_1 {
+    opacity: 0.6;
+    filter: blur(50px);
+    position: absolute;
+    width: 1960px;
+    height: 1097px;
+    left: -20px;
+    top: -10px;
+    overflow: visible;
+}
+#Rectangle_18 {
+    opacity: 0.45;
+    fill: rgba(255,255,255,1);
+    stroke: rgba(236,23,23,1);
+    stroke-width: 5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_18 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 699px;
+    left: 813px;
+    top: 269px;
+}
+#Rectangle_1 {
+    fill: rgba(32,0,203,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 150px;
+    height: 150px;
+    left: 35px;
+    top: 32px;
+}
+#Rectangle_2 {
+    fill: rgba(236,23,23,1);
+}
+.Rectangle_2 {
+    position: absolute;
+    overflow: visible;
+    width: 371px;
+    height: 150px;
+    left: 1526px;
+    top: 32px;
+}
+#Untitled-1 {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 35px;
+    top: 33px;
+    overflow: visible;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___2.html;
+    cursor: pointer;
+}
+#MWEB {
+    left: 238px;
+    top: 69px;
+    position: absolute;
+    overflow: visible;
+    width: 142px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(0,0,0,1);
+    text-transform: uppercase;
+}
+#SERVICES {
+    left: 621px;
+    top: 69px;
+    position: absolute;
+    overflow: visible;
+    width: 193px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(0,0,0,1);
+}
+#CARACTERISTICS {
+    left: 849px;
+    top: 69px;
+    position: absolute;
+    overflow: visible;
+    width: 344px;
+    white-space: nowrap;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___3.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(0,0,0,1);
+}
+#COSTUMERS {
+    left: 1228px;
+    top: 69px;
+    position: absolute;
+    overflow: visible;
+    width: 261px;
+    white-space: nowrap;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___2.html;
+    cursor: pointer;
+    text-align: left;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    color: rgba(0,0,0,1);
+}
+#CONTACT_US {
+    left: 1560px;
+    top: 66px;
+    position: absolute;
+    overflow: visible;
+    width: 299px;
+    white-space: nowrap;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___4.html;
+    cursor: pointer;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(255,255,255,1);
+}
+#Rectangle_6 {
+    opacity: 0.45;
+    fill: rgba(255,255,255,1);
+    stroke: rgba(236,23,23,1);
+    stroke-width: 5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_6 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 699px;
+    left: 1220px;
+    top: 269px;
+}
+#Rectangle_15 {
+    fill: transparent;
+    stroke: rgba(236,23,23,1);
+    stroke-width: 5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_15 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 699px;
+    left: 394px;
+    top: 269px;
+}
+#Rectangle_16 {
+    opacity: 0.45;
+    fill: rgba(255,255,255,1);
+    stroke: rgba(236,23,23,1);
+    stroke-width: 5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_16 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 699px;
+    left: 393px;
+    top: 269px;
+}
+#Rectangle_17 {
+    fill: rgba(236,23,23,1);
+}
+.Rectangle_17 {
+    position: absolute;
+    overflow: visible;
+    width: 337px;
+    height: 75px;
+    left: 831px;
+    top: 843px;
+}
+#Rectangle_10 {
+    fill: rgba(236,23,23,1);
+}
+.Rectangle_10 {
+    position: absolute;
+    overflow: visible;
+    width: 337px;
+    height: 75px;
+    left: 1238px;
+    top: 843px;
+}
+#CONTACT_US_y {
+    left: 1289px;
+    top: 850px;
+    position: absolute;
+    overflow: visible;
+    width: 243px;
+    white-space: nowrap;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___4.html;
+    cursor: pointer;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 57px;
+    color: rgba(255,255,255,1);
+}
+#enterprise-2 {
+    position: absolute;
+    width: 263px;
+    height: 101px;
+    left: 1273px;
+    top: 316px;
+    overflow: visible;
+}
+#pro-2 {
+    position: absolute;
+    width: 259px;
+    height: 100px;
+    left: 868px;
+    top: 316px;
+    overflow: visible;
+}
+#starter-2 {
+    position: absolute;
+    width: 231px;
+    height: 89px;
+    left: 462px;
+    top: 316px;
+    overflow: visible;
+}
+#CONTACT_US_ {
+    left: 876px;
+    top: 850px;
+    position: absolute;
+    overflow: visible;
+    width: 243px;
+    white-space: nowrap;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___4.html;
+    cursor: pointer;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 57px;
+    color: rgba(255,255,255,1);
+}
+#Create_a_website_For_team_user {
+    left: 813px;
+    top: 436px;
+    position: absolute;
+    overflow: visible;
+    width: 369px;
+    height: 372px;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(0,0,0,1);
+}
+#Create__Control__For_large_tea {
+    left: 1230px;
+    top: 405px;
+    position: absolute;
+    overflow: visible;
+    width: 361px;
+    height: 430px;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_19 {
+    fill: rgba(236,23,23,1);
+}
+.Rectangle_19 {
+    position: absolute;
+    overflow: visible;
+    width: 337px;
+    height: 75px;
+    left: 409px;
+    top: 841px;
+}
+#CONTACT_US_ba {
+    left: 456px;
+    top: 843px;
+    position: absolute;
+    overflow: visible;
+    width: 243px;
+    white-space: nowrap;
+    transition: all 0.3s ease-out;
+    --web-animation: fadein 0.3s ease-out;
+    --web-action-type: page;
+    --web-action-target: Web_1920___4.html;
+    cursor: pointer;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 57px;
+    color: rgba(255,255,255,1);
+}
+#Help_You_For_individual_users_ {
+    left: 393px;
+    top: 436px;
+    position: absolute;
+    overflow: visible;
+    width: 369px;
+    height: 418px;
+    text-align: center;
+    font-family: Agency FB;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: rgba(0,0,0,1);
+}
+#Rectangle_20 {
+    fill: transparent;
+    stroke: rgba(236,23,23,1);
+    stroke-width: 5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_20 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 699px;
+    left: 813px;
+    top: 273px;
+}
+#Rectangle_21 {
+    fill: transparent;
+    stroke: rgba(236,23,23,1);
+    stroke-width: 5px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_21 {
+    position: absolute;
+    overflow: visible;
+    width: 368px;
+    height: 699px;
+    left: 1221px;
+    top: 273px;
+}
